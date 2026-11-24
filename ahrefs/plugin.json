@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ahrefs",
+  "version": "1.0.0",
+  "description": "Backlink, keyword and competitor research from Ahrefs. Needs an Ahrefs plan with API and MCP access.",
+  "author": {
+    "name": "Claxedo",
+    "url": "https://claxedo.com"
+  },
+  "homepage": "https://ahrefs.com/seo-mcp",
+  "keywords": [
+    "seo",
+    "backlinks",
+    "keywords",
+    "mcp"
+  ],
+  "extensions": {
+    "claxedo": {
+      "categories": [
+        "mcp-servers",
+        "data-and-analytics"
+      ]
+    }
+  }
+}

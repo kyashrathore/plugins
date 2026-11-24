@@ -76,3 +76,7 @@ Only use the workbench when data is stored in a remote file or you need bulk/scr
 - For cross-app workflows, split into atomic queries and execute independent steps in parallel
 - Re-run SEARCH_TOOLS when you need additional tools due to missing details, errors, or a changed use case
 - OAuth is fully managed — no API keys needed from the user
+
+## Some tools cost credits
+
+Composio runs some tools on its own provider accounts and charges the person's Composio credits for each call, such as web search, SEO and data providers. Prefer an account the person already connected, and say what a job will cost before a run of many paid calls.

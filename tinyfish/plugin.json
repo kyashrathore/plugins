@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tinyfish",
+  "version": "1.0.0",
+  "description": "Web search and page reading through TinyFish. Search and fetch are free within daily limits; browser automation and research spend your TinyFish wallet.",
+  "author": {
+    "name": "Claxedo",
+    "url": "https://claxedo.com"
+  },
+  "homepage": "https://tinyfish.ai",
+  "keywords": [
+    "web-search",
+    "search",
+    "fetch",
+    "mcp"
+  ],
+  "extensions": {
+    "claxedo": {
+      "categories": [
+        "mcp-servers"
+      ]
+    }
+  }
+}

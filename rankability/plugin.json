@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rankability",
+  "version": "1.0.0",
+  "description": "SEO and AI-search research, tracking, audits and content for clients in Rankability. Can also change and publish work there.",
+  "author": {
+    "name": "Claxedo",
+    "url": "https://claxedo.com"
+  },
+  "homepage": "https://www.rankability.com/mcp-for-seo/",
+  "keywords": [
+    "seo",
+    "content",
+    "clients",
+    "mcp"
+  ],
+  "extensions": {
+    "claxedo": {
+      "categories": [
+        "mcp-servers",
+        "data-and-analytics"
+      ]
+    }
+  }
+}

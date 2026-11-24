@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dataforseo",
+  "version": "1.0.0",
+  "description": "Search results, keyword and backlink data from DataForSEO, pay as you go from your DataForSEO balance.",
+  "author": {
+    "name": "Claxedo",
+    "url": "https://claxedo.com"
+  },
+  "homepage": "https://dataforseo.com/model-context-protocol",
+  "keywords": [
+    "seo",
+    "serp",
+    "keywords",
+    "mcp"
+  ],
+  "extensions": {
+    "claxedo": {
+      "categories": [
+        "mcp-servers",
+        "data-and-analytics"
+      ]
+    }
+  }
+}

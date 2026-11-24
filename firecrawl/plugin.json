@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "firecrawl",
+  "version": "1.0.0",
+  "description": "Web search, page scraping, site maps and crawls through Firecrawl, on your own Firecrawl plan.",
+  "author": {
+    "name": "Claxedo",
+    "url": "https://claxedo.com"
+  },
+  "homepage": "https://firecrawl.dev",
+  "keywords": [
+    "web-search",
+    "scrape",
+    "crawl",
+    "mcp"
+  ],
+  "extensions": {
+    "claxedo": {
+      "categories": [
+        "mcp-servers"
+      ]
+    }
+  }
+}

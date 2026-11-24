@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "semrush",
+  "version": "1.0.0",
+  "description": "Keyword, domain and traffic data from Semrush. Needs a Semrush plan that includes MCP access.",
+  "author": {
+    "name": "Claxedo",
+    "url": "https://claxedo.com"
+  },
+  "homepage": "https://www.semrush.com/mcp/",
+  "keywords": [
+    "seo",
+    "keywords",
+    "traffic",
+    "mcp"
+  ],
+  "extensions": {
+    "claxedo": {
+      "categories": [
+        "mcp-servers",
+        "data-and-analytics"
+      ]
+    }
+  }
+}

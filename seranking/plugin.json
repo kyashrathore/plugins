@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "seranking",
+  "version": "1.0.0",
+  "description": "Rank tracking, keyword, competitor and AI-search data from SE Ranking. Needs an SE Ranking plan with API credits.",
+  "author": {
+    "name": "Claxedo",
+    "url": "https://claxedo.com"
+  },
+  "homepage": "https://seranking.com/mcp.html",
+  "keywords": [
+    "seo",
+    "rank-tracking",
+    "keywords",
+    "mcp"
+  ],
+  "extensions": {
+    "claxedo": {
+      "categories": [
+        "mcp-servers",
+        "data-and-analytics"
+      ]
+    }
+  }
+}
